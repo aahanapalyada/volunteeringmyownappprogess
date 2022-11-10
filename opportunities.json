@@ -1,0 +1,37 @@
+[
+{
+  "title": "Beach Cleanup",
+  "coordinator": "Sally",
+  "time": "2 hours",
+  "location": "Torrey Pines Beach, CA",
+  "break": " "
+},
+{
+  "title": "Food Distribution",
+  "coordinator": "James",
+  "time": "1 hour",
+  "location": "Los Angeles, CA",
+  "break": " "
+},
+{
+  "title": "Senior Center Help",
+  "coordinator": "Jack",
+  "time": "3 hours",
+  "location": "123 Road Dr.",
+  "break": " "
+},
+{
+  "title": "Park Cleanup",
+  "coordinator": "James",
+  "time": "1 hour",
+  "location": "Alfred Memorial Park, Los Angeles",
+  "break": " "
+},
+{
+  "title": "Heart Walk",
+  "coordinator": "Jessica",
+  "time": "4 hours",
+  "location": "San Diego, CA",
+  "break": " "
+}
+]
